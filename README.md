@@ -11,18 +11,18 @@
 </ul>
 
 ## Pages:
-### Home Page:
+# Home Page:
 ![screencapture-file-F-web-dev-practice-JS-ecommerece-site-public-index-html-2022-06-14-11_18_02](https://user-images.githubusercontent.com/60597502/173637985-a8e588cd-aea1-4d62-b580-6d696e0113f6.png)
 
-### product Page:
+# Product Page:
 ![screencapture-file-F-web-dev-practice-JS-ecommerece-site-public-product-html-2022-06-14-11_17_33](https://user-images.githubusercontent.com/60597502/173638302-030700dc-02ed-4643-8ad0-eb47f8fcd2f4.png)
 
 
-### search Page:
+# Search Page:
 ![screencapture-file-F-web-dev-practice-JS-ecommerece-site-public-search-html-2022-06-14-11_18_28](https://user-images.githubusercontent.com/60597502/173638282-25d0f00f-6b33-4047-9857-e691b76a18ac.png)
 
 
-### 404 Page:
+# 404 Page:
 ![screencapture-file-F-web-dev-practice-JS-ecommerece-site-public-404-html-2022-06-14-11_18_45](https://user-images.githubusercontent.com/60597502/173638258-79f029c9-dff2-44de-8a17-7e83fd6a007e.png)
 
 
