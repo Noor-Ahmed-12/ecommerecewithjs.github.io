@@ -1,0 +1,13 @@
+.four-o-four-img{
+    display: block;
+    margin: 30px auto;
+}
+.four-o-four-msg{
+    text-align: center;
+    text-transform: uppercase;
+    color: #383833;
+}
+
+.four-o-four-msg a{
+    color: #383833;
+}
