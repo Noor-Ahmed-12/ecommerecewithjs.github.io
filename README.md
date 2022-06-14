@@ -1,2 +1,3 @@
-# ecommerecewithjs.github.io
-Build a E-commerce website with javascript!
+# Build E-commerece website using Vanilla Javascript
+
+
