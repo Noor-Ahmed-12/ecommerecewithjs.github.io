@@ -15,6 +15,9 @@
 ![1](https://user-images.githubusercontent.com/60597502/173635180-f4867f4d-cc09-45e4-afba-9e9643628591.png)
 ![3](https://user-images.githubusercontent.com/60597502/173635218-e8b6013d-7d0d-4364-b17d-a17415154c3c.png)
 ![2](https://user-images.githubusercontent.com/60597502/173635226-84bc0ceb-d002-445e-ab75-7b2f44baa559.png)
+![web3](https://user-images.githubusercontent.com/60597502/173637128-15f5a1be-c85d-4054-a090-161b9ae064eb.PNG)
+![web4](https://user-images.githubusercontent.com/60597502/173637139-c1b0cc12-b6c8-44eb-b679-26e2153cfbb4.PNG)
+
 
 
 ## 👨‍💻Developer:<a href="https://github.com/Noor-Ahmed-12">Noor Ahmed Shaikh</a>
