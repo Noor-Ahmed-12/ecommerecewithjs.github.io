@@ -4,11 +4,13 @@
 <ul>
   <h3>
  <li><strong>Make Product slider with javascript</strong></li><br>
- <li><strong>Product image carusal using js</strong></li><br>
+ <li><strong>Product image carousel using js</strong></li><br>
  <li><strong>add to cart button</strong></li><br>
 <li><strong>And many other useful features</strong></li><br>
   </h3>
 </ul>
+
+## some snippets of interface:
 
 ![1](https://user-images.githubusercontent.com/60597502/173635180-f4867f4d-cc09-45e4-afba-9e9643628591.png)
 ![3](https://user-images.githubusercontent.com/60597502/173635218-e8b6013d-7d0d-4364-b17d-a17415154c3c.png)
