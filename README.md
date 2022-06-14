@@ -10,14 +10,20 @@
   </h3>
 </ul>
 
-## some snippets of interface:
+## Pages:
+### Home Page:
+![screencapture-file-F-web-dev-practice-JS-ecommerece-site-public-index-html-2022-06-14-11_18_02](https://user-images.githubusercontent.com/60597502/173637985-a8e588cd-aea1-4d62-b580-6d696e0113f6.png)
 
-![1](https://user-images.githubusercontent.com/60597502/173635180-f4867f4d-cc09-45e4-afba-9e9643628591.png)
-![3](https://user-images.githubusercontent.com/60597502/173635218-e8b6013d-7d0d-4364-b17d-a17415154c3c.png)
-![2](https://user-images.githubusercontent.com/60597502/173635226-84bc0ceb-d002-445e-ab75-7b2f44baa559.png)
-![web3](https://user-images.githubusercontent.com/60597502/173637128-15f5a1be-c85d-4054-a090-161b9ae064eb.PNG)
-![web4](https://user-images.githubusercontent.com/60597502/173637139-c1b0cc12-b6c8-44eb-b679-26e2153cfbb4.PNG)
+### product Page:
+![screencapture-file-F-web-dev-practice-JS-ecommerece-site-public-product-html-2022-06-14-11_17_33](https://user-images.githubusercontent.com/60597502/173638302-030700dc-02ed-4643-8ad0-eb47f8fcd2f4.png)
 
+
+### search Page:
+![screencapture-file-F-web-dev-practice-JS-ecommerece-site-public-search-html-2022-06-14-11_18_28](https://user-images.githubusercontent.com/60597502/173638282-25d0f00f-6b33-4047-9857-e691b76a18ac.png)
+
+
+### 404 Page:
+![screencapture-file-F-web-dev-practice-JS-ecommerece-site-public-404-html-2022-06-14-11_18_45](https://user-images.githubusercontent.com/60597502/173638258-79f029c9-dff2-44de-8a17-7e83fd6a007e.png)
 
 
 ## 👨‍💻Developer:<a href="https://github.com/Noor-Ahmed-12">Noor Ahmed Shaikh</a>
