@@ -18,7 +18,7 @@
 ## 👨‍💻Developer:<a href="https://github.com/Noor-Ahmed-12">Noor Ahmed Shaikh</a>
 
 ## 🤝You can Contribute in it!
-### You can improve this Password Manager in Java with new creative ideas to make it more secure.
+### make it more functional and useful!
 
 
 ## :small_blue_diamond:connect with me for more amazing javascript projects:
