@@ -26,7 +26,7 @@
 ![screencapture-file-F-web-dev-practice-JS-ecommerece-site-public-404-html-2022-06-14-11_18_45](https://user-images.githubusercontent.com/60597502/173638258-79f029c9-dff2-44de-8a17-7e83fd6a007e.png)
 
 
-## 👨‍💻Developer:<a href="https://github.com/Noor-Ahmed-12">Noor Ahmed Shaikh</a>
+## 👨‍💻Developer:<a href="https://www.linkedin.com/in/noor-ahmed-shaikh-2989691b4/">Noor Ahmed Shaikh</a>
 
 ## 🤝You can Contribute in it!
 ### make it more functional and useful!
